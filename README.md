@@ -1,6 +1,6 @@
 # file_upload_project
-# This is a spring boot project that uses JDK17.
-# This project exposes 4 api endpoints : 
+This is a spring boot project that uses JDK17.
+This project exposes 4 api endpoints : 
 1. Post : /api/file/upload : this api accepts a text file saves it and returns 
 {
     "message": "File ${fileName} uploaded successfully.",
